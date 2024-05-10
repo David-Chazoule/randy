@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/randy/static/css/main.3dce6013.css",
+    "main.js": "/randy/static/js/main.2b930bda.js",
+    "static/js/453.209104a4.chunk.js": "/randy/static/js/453.209104a4.chunk.js",
+    "static/media/sky.png": "/randy/static/media/sky.8a31db3c68f37c1ca09f.png",
+    "static/media/randyviet.jpg": "/randy/static/media/randyviet.288dcc54f9b4ffda8571.jpg",
+    "static/media/Maevaa.jpg": "/randy/static/media/Maevaa.9ce70182ddf43108058e.jpg",
+    "static/media/david.jpg": "/randy/static/media/david.3cdd0f23e9ea1afc17ee.jpg",
+    "static/media/sun.jpg": "/randy/static/media/sun.4a4e75d01815877b49b4.jpg",
+    "static/media/yann.jpg": "/randy/static/media/yann.f6b253004e62dc0680c2.jpg",
+    "static/media/randyBike.jpg": "/randy/static/media/randyBike.878ac0b191bc82ae9add.jpg",
+    "static/media/randypara.jpg": "/randy/static/media/randypara.5ee542e636ddfadb3263.jpg",
+    "static/media/chris.jpg": "/randy/static/media/chris.9376fef49148c95f5755.jpg",
+    "static/media/randyesca.jpg": "/randy/static/media/randyesca.cab16026061b7d2caeff.jpg",
+    "static/media/randkun-fu.jpg": "/randy/static/media/randkun-fu.d082d33ceb908c8fdc7a.jpg",
+    "static/media/alex.jpg": "/randy/static/media/alex.bc968a13e5c4538f501a.jpg",
+    "static/media/tony.jpg": "/randy/static/media/tony.4e199cfc0591aaa51b60.jpg",
+    "static/media/randyscien.jpg": "/randy/static/media/randyscien.aa54dfad69c97d90a82c.jpg",
+    "static/media/Roboto-Regular.ttf": "/randy/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Bangers-Regular.ttf": "/randy/static/media/Bangers-Regular.f0f1f39c39ee2df57fd7.ttf",
+    "static/media/city.png": "/randy/static/media/city.49e32d0e9eb4825ba202.png",
+    "index.html": "/randy/index.html",
+    "main.3dce6013.css.map": "/randy/static/css/main.3dce6013.css.map",
+    "main.2b930bda.js.map": "/randy/static/js/main.2b930bda.js.map",
+    "453.209104a4.chunk.js.map": "/randy/static/js/453.209104a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dce6013.css",
+    "static/js/main.2b930bda.js"
+  ]
+}
