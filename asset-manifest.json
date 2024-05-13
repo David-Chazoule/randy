@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/randy/static/css/main.3dce6013.css",
-    "main.js": "/randy/static/js/main.2b930bda.js",
+    "main.css": "/randy/static/css/main.8b6ec254.css",
+    "main.js": "/randy/static/js/main.e587eedf.js",
     "static/js/453.209104a4.chunk.js": "/randy/static/js/453.209104a4.chunk.js",
     "static/media/sky.png": "/randy/static/media/sky.8a31db3c68f37c1ca09f.png",
     "static/media/randyviet.jpg": "/randy/static/media/randyviet.288dcc54f9b4ffda8571.jpg",
@@ -21,12 +21,12 @@
     "static/media/Bangers-Regular.ttf": "/randy/static/media/Bangers-Regular.f0f1f39c39ee2df57fd7.ttf",
     "static/media/city.png": "/randy/static/media/city.49e32d0e9eb4825ba202.png",
     "index.html": "/randy/index.html",
-    "main.3dce6013.css.map": "/randy/static/css/main.3dce6013.css.map",
-    "main.2b930bda.js.map": "/randy/static/js/main.2b930bda.js.map",
+    "main.8b6ec254.css.map": "/randy/static/css/main.8b6ec254.css.map",
+    "main.e587eedf.js.map": "/randy/static/js/main.e587eedf.js.map",
     "453.209104a4.chunk.js.map": "/randy/static/js/453.209104a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dce6013.css",
-    "static/js/main.2b930bda.js"
+    "static/css/main.8b6ec254.css",
+    "static/js/main.e587eedf.js"
   ]
 }
