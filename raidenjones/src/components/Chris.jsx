@@ -13,7 +13,7 @@ export default function Chris() {
         indéfectible avec Randy est ancrée dans la confiance mutuelle, où
         Christophe est le gardien du secret de son ami, le seul a connaitre la véritable identité de Rainder Jones. Malgré ses talents
         indéniables, il a un penchant pour les gaffes monumentales et les situations périeuses, se
-        retrouvant souvent dans de nombreux problemes. Heureusement, la
+        retrouvant souvent dans de nombreux problèmes. Heureusement, la
         présence de Randy lui offre un soutien inébranlable pour naviguer à
         travers les tempêtes de la vie.
       </p>

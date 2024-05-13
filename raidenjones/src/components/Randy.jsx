@@ -17,7 +17,7 @@ export default function Randy() {
         seul a décidé de lutter contre le mal.
       </h2>
       <p>
-        Son nom : <span className="raiden">RAIDEN JONES.</span>{" "}
+        Son nom:  <span className="raiden">RAIDEN JONES.</span>{" "}
       </p>{" "}
       <p>
         Randy le jour, éminent chercheur et professeur à l'université de Panam
